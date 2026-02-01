@@ -8,7 +8,6 @@
 [![Redis](https://img.shields.io/badge/Redis-7-red.svg)](https://redis.io/)
 [![Celery](https://img.shields.io/badge/Celery-5.3-green.svg)](https://docs.celeryproject.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -597,7 +596,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ayush Mishra**
 
 - GitHub: [@ayush-mishra7](https://github.com/ayush-mishra7)
-- Email: ayush.mishra@example.com
+- Email: ayush963ash@gmail.com
 
 ---
 
